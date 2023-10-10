@@ -42,6 +42,8 @@ El escenario de la aventura podrá tener un estilo un poco diferente
 El nivel tendrá menos tiempo para que el jugador pueda llegar a la meta
 # Planificación
 [Plan de Trabajo Estimado](https://www.canva.com/design/DAFu7rthFQE/view)
+[Trello](https://trello.com/b/LgZr0uko/fox-crash)
+
 # Lección 1
 - **Lección 1**
 - **Reto Lección 1**
