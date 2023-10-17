@@ -1,5 +1,5 @@
 # Creación de VideoJuegos
-
+![Logo](https://i.ibb.co/RcnWgsx/8e098d58-742a-4155-866c-9916d7a0d323.jpg)
 # Contenido
 * **Introducción**
 * **Planificación**
@@ -42,10 +42,19 @@ El escenario de la aventura podrá tener un estilo un poco diferente
 El nivel tendrá menos tiempo para que el jugador pueda llegar a la meta
 # Planificación
 [Plan de Trabajo Estimado](https://www.canva.com/design/DAFu7rthFQE/view)
+<br>
+# Trello
 [Trello](https://trello.com/b/LgZr0uko/fox-crash)
 
 # Lección 1
 - **Lección 1**
 - **Reto Lección 1**
 - [**Video**](www.youtube.com/34rwerwer2)
+
+<br>
+
+# Lección 3
+- **Lección 3**
+- **Reto Lección 3**
+- [**Video**](www.youtube.com/34rwerw2)
 
